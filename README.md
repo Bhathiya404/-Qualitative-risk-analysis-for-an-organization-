@@ -1,1 +1,3 @@
 # -Qualitative-risk-analysis-for-an-organization-
+
+The primary goal of this risk assessment is to identify and possibly mitigate (if the risk level is high enough) weaknesses, vulnerabilities, and failures in the systems that ensure the flow of the Esecurity (Pvt) Ltd. Potential threats will also be evaluated, as well as their estimated financial impact on Esecurity. We will also discuss how these key issues have affected the company thus far, as well as recommendations for each issue that will help to mitigate these problems. For this assessment, we chose the Octave allegro risk assessment framework
